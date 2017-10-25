@@ -1,0 +1,1 @@
+Lo que nos pedia en el proyecto lo hemos realizado, me hubiera gustaddo ampliarlo más. Si hubieramos tenido tiempo podiamos haber hecho el formulario para registrar los anuncios de los diferentes usuario pidiendo un usuario y contraseña.
